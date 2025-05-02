@@ -2,5 +2,6 @@
     "APP_CPU_REQUEST": "50m",
     "APP_CPU_LIMIT": "500m",
     "APP_MEMORY_REQUEST": "200mi",
-    "APP_MEMORY_LIMIT": "500mi"
+    "APP_MEMORY_LIMIT": "500mi",
+    "REPLICAS": "1"
 }
