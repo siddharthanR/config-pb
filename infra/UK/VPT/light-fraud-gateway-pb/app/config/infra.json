@@ -3,5 +3,5 @@
     "APP_CPU_LIMIT": "500m",
     "APP_MEMORY_REQUEST": "200mi",
     "APP_MEMORY_LIMIT": "500mi",
-    "apaasV4ID": "25"
+    "apaasV4ID": "65"
 }
