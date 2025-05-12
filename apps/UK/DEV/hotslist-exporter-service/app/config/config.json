@@ -1,7 +1,7 @@
 {
-    "APP_CPU_REQUEST": "50m",
-    "APP_CPU_LIMIT": "500m",
-    "APP_MEMORY_REQUEST": "200mi",
-    "APP_MEMORY_LIMIT": "500mi",
-    "REPLICAS": "1"
+  "APP_CPU_REQUEST" : "70m",
+  "APP_CPU_LIMIT" : "700m",
+  "APP_MEMORY_REQUEST" : "700mi",
+  "APP_MEMORY_LIMIT" : "700mi",
+  "REPLICAS" : "5"
 }
